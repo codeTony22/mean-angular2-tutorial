@@ -1,0 +1,27 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeTony22/mean-angular2-tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Jose A. Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeTony22/mean-angular2-tutorial/issues"
+  },
+  "homepage": "https://github.com/codeTony22/mean-angular2-tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.12"
+  }
+}
